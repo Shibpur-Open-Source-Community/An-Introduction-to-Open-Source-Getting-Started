@@ -37,5 +37,6 @@ So that’s a great open source ReadMe. What else should a great repo have (apar
 * A Code of Conduct
 
 
-### An Introduction to github
+### An Introduction to Github 
+#### Click on it
 [![Watch the video](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)](https://www.youtube.com/watch?v=0fKg7e37bQE)
