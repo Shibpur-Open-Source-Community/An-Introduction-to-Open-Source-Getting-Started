@@ -38,5 +38,5 @@ So that’s a great open source ReadMe. What else should a great repo have (apar
 
 
 ### An Introduction to Github 
-#### Click on it
+#### Click on the image 
 [![Watch the video](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)](https://www.youtube.com/watch?v=0fKg7e37bQE)
