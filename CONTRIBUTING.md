@@ -6,17 +6,17 @@ The following is a set of guidelines to for contributing to a project. Feel free
 
 ## Issues
 
-Issues are a great way to keep track of tasks, enhancements, and bugs for projects. If you find a bug, or have a suggestion for enhacement, feel free to open a issue. You can open one using the green button "New issue", located in the "Issues" tab or the project.
+Issues are a great way to keep track of tasks, enhancements, and bugs for projects. If you find a bug, or have a suggestion for enhancement, feel free to open an issue. You can open one using the green button "New issue", located in the "Issues" tab or the project.
 
-### What a a great issue has
+### What a great issue has
 
-So what do you need to fill in a issue:
- * Title: The title should describe the bug or enhacement briefly.
+So, what do you need to fill in an issue?
+ * Title: The title should describe the bug or enhancement briefly.
  * Labels: Check if the project has labels and add the labels that describes the issue.
- * Summary: Summarize the bug/enhacement concisely
- * Steps to reproduce (Bugs only): How the developer or others users can reproduce the bug?
- * Revelant information: Add logs, or screenshots if filling a bug, or maybe a mockup if it's a enhacement.
- * Enviroment info: Tell the version of software and OS you encountered the issue. 
+ * Summary: Summarize the bug/enhancement concisely.
+ * Steps to reproduce (Bugs only): How the developer or others users can reproduce the bug? This is important.
+ * Revelant information: Add logs, or screenshots if filling a bug, or maybe a mockup if it's a enhancement.
+ * Environment info: Tell the version of software and OS you encountered the issue. 
 
 Tip: Check first if a similar issue hasn't filled before!
 
@@ -46,4 +46,4 @@ One of the most used branching strategy in Github is [GitHub Flow](https://guide
 
 As a rule of thumb, don't add new changes to 'master', even if the project you are contributing doesn't specify which branching strategy is using.
 
-Happy hacking!
+Happy Open Sourcing!
