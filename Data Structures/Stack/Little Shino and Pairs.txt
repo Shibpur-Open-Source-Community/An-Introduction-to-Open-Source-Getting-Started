@@ -1,0 +1,46 @@
+Given a permutation of number from 1 to N. Among all the subarrays, find the number of unique pairs 
+(a,b) such that a≠b and a is maximum and b is second maximum in that subarray.
+
+Input:
+First line contains an integer, 
+(1≤N≤105). Second line contains N space separated distinct integers, 
+(1≤Ai≤N), denoting the permutation.
+
+Output:
+Print the required answer.
+
+SAMPLE INPUT 
+
+5
+1 2 3 4 5
+
+SAMPLE OUTPUT 
+
+4
+
+
+Explanation
+All the possible subarrays are:
+
+1
+12
+123
+1234
+12345
+2
+23
+234
+2345
+3
+34
+345
+4
+45
+5
+
+The 4 unique pairs are:
+
+(2,1)
+(3,2)
+(4,3)
+(5,4)
