@@ -1,0 +1,36 @@
+You are given a graph containing N vertices and M edges and each edge has an associated weight. The graph contains several Hamiltonian paths that meet all the vertices exactly once. The strength of a Hamiltonian path is defined as the sum of the weight of all the edges in that path.
+
+Write a program to find the minimum element of an array which stores the strength of all the Hamiltonian paths in the graph.
+
+Input format
+
+First line: Two space-separated integers N and M
+Next M lines: Three space-separated integers X, Y, and Z (denoting an edge between node X and node Y of weight Z)
+
+Output format
+
+Print the minimum element of an array which stores the strength of all the Hamiltonian paths in the graph.
+
+Constraints
+
+
+1 ≤ N ≤ 10
+
+1 ≤ M ≤ 20
+
+1 ≤ X,Y ≤ N
+
+1 ≤ Z ≤ 100
+
+SAMPLE INPUT
+
+4 4
+1 2 4
+2 3 5
+2 4 2
+3 4 1
+
+
+SAMPLE OUTPUT
+
+7

@@ -1,0 +1,46 @@
+Monk has N friends. They are invited to his birthday party. Each friend has a satisfying factor which is equal to the number of gifts which they are expecting. Monk wants to satisfy at-least K friends but he is unaware of their satisfying factors. So Monk starts distribution of gifts. As soon as a friend is satisfied he won't take more gifts.
+
+Monk will follow a distribution strategy so as to minimize the number of gifts needed to satisfy atleast K of his friends. Find the minimum number of gifts which Monk should carry with himself in the worst case.
+
+Input Format:
+
+First line contains an integer T (the number of testcases).
+
+Then first line of each test case contains an integer N (the number of friends).
+
+Then N space separated integers follow which are the satisfying factor(S[i]).
+
+Last line of each test case consists of an integer K.
+
+Output Format:
+
+For each case print in a new line the minimum number of gifts that Monk should carry.
+
+Constraints
+
+1 ≤ T ≤ 10
+
+1 ≤ N,S[i] ≤ 10^5
+
+1 ≤ K ≤ N
+
+SAMPLE INPUT
+
+2
+2
+5 11
+1
+3
+5 77 2
+2
+
+SAMPLE OUTPUT
+
+10
+12
+
+Explanation
+
+For 1st case,Monk has to satisfy 1 of his friends. As he is unaware of the satisfying factors so he may give first 5 gifts to 2nd friend and then 5 to the first friend. So with 10 gifts in the worst case he can satisfy at-least 1 friend.
+
+For 2nd case ,Monk satisfies 2 friends.Monk gives 5 gifts to 1st and 2nd friend and 2 gifts to the third friend.

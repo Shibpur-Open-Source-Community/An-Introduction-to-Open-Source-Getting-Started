@@ -1,0 +1,39 @@
+You are given a N * M matrix. You need to print the sum of all the numbers in the rectangle which has (1,1) as the top left corner and (X,Y) as the bottom right corner.
+
+Input:
+
+First line contains two integers, N and M, number of rows and number of columns in the matrix.
+Next N lines contains M space separated integers, elements of the matrix.
+Next line contains an integer, Q, number of queries.
+Each query contains two space separated integers, X and Y.
+
+Output:
+For each query, print the sum of all the numbers in the rectangle which has (1,1) as the top left corner and (X,Y) as the bottom right corner.
+
+Constraints:
+1 ≤ N,M ≤ 10^3
+
+1≤ elements of matrix ≤10^3
+
+1 ≤ X ≤ N
+
+1 ≤ Y ≤ M
+
+1 ≤ Q ≤ 10^5
+
+
+
+SAMPLE INPUT
+
+3 3
+1 2 3
+4 5 6
+7 8 9
+2
+3 3
+2 3
+
+SAMPLE OUTPUT
+
+45
+21
