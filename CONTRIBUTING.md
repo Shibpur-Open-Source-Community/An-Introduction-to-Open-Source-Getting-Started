@@ -1,4 +1,4 @@
-#Contributing to this project
+# Contributing to this project
 
 Thanks for taking the time to contribute!
 
