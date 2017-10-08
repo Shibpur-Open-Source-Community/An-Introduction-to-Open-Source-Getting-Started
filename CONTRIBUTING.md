@@ -26,7 +26,7 @@ Pull requests (PRs) let you tell others about changes you've pushed to a reposit
 
 Follow the contribution etiquette of the project located in CONTRIBUTING.md.
 
-In order to create a PR, you can use the white button located in the main page of the project you want to contribute. Note that maybe you need to create a fork frist so you can work on the changes before making the PR. [More info here](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). You PR should also use a branching strategy, noted down.
+In order to create a PR, you can use the white button located in the main page of the project you want to contribute. Note that maybe you need to create a fork first so you can work on the changes before making the PR. [More info here](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). Your PR should also use a branching strategy, noted down.
 
 ### What a great PR has
 
