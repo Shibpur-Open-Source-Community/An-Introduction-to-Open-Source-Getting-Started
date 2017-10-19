@@ -42,4 +42,5 @@ So that’s a great open source ReadMe. What else should a great repo have (apar
 [![Watch the video](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)](https://www.youtube.com/watch?v=0fKg7e37bQE)
 #### Some great tutorials for Git and Github.
 [Beginner video tutorial by thenewboston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+
 [Comprehensive text tutorial by Atlassian](https://www.atlassian.com/git/tutorials)
