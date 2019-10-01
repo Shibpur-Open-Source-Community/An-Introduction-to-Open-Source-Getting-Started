@@ -1,0 +1,2 @@
+We have a deck of 52 cards, every card has it's value (0..12), and color (0..3).
+Sort hands with 5-card combinations by the Poker rules.
