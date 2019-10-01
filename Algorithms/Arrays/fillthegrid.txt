@@ -1,0 +1,26 @@
+Suppose there is a h×w grid consisting of empty or full cells. Let's make some definitions:
+
+ri is the number of consecutive full cells connected to the left side in the i-th row (1≤i≤h). In particular, ri=0 if the leftmost cell of the i-th row is empty.
+cj is the number of consecutive full cells connected to the top end in the j-th column (1≤j≤w). In particular, cj=0 if the topmost cell of the j-th column is empty.
+In other words, the i-th row starts exactly with ri full cells. Similarly, the j-th column starts exactly with cj full cells.
+
+These are the r and c values of some 3×4 grid. Black cells are full and white cells are empty.
+You have values of r and c. Initially, all cells are empty. Find the number of ways to fill grid cells to satisfy values of r and c. Since the answer can be very large, find the answer modulo 1000000007(109+7). In other words, find the remainder after division of the answer by 1000000007(109+7).
+
+Input
+The first line contains two integers h and w (1≤h,w≤103) — the height and width of the grid.
+
+The second line contains h integers r1,r2,…,rh (0≤ri≤w) — the values of r.
+
+The third line contains w integers c1,c2,…,cw (0≤cj≤h) — the values of c.
+
+Output
+Print the answer modulo 1000000007(109+7).
+Example:
+  Input:
+    3 4
+  0 3 1
+  0 2 3 0
+  
+  Output:
+  2
